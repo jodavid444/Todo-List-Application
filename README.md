@@ -21,7 +21,7 @@ To get a local copy up and running follow these simple example steps.
 
 ### Live Demo
 
-- [Live Link](https://jodavid444.github.io/Todo-List-Application)
+- [Live Link ](https://jodavid444.github.io/Todo-List-Application)
 
 ### Setup
 
